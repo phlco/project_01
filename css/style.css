@@ -1,0 +1,14 @@
+.banner {
+  background-image: url("../images/space.png");
+  background-repeat: no-repeat;
+  height: 315px;
+  color: white;
+  display: block;
+  position: relative;
+}
+
+.pizza {
+  position: absolute;
+  bottom: 0;
+}
+
