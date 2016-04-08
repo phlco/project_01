@@ -1,3 +1,0 @@
-# Logfile created on 2016-04-07 21:02:46 -0700 by logger.rb/47272
-I, [2016-04-07T21:02:47.166671 #93533]  INFO -- : [HTTParty] [2016-04-07 21:02:47 -0700] 400 "PUT /repos/phlco/project_01/contents/images/.gitkeep" 105 
-I, [2016-04-07T21:03:28.359118 #93577]  INFO -- : [HTTParty] [2016-04-07 21:03:28 -0700] 400 "PUT /repos/phlco/project_01/contents/images/.gitkeep" 105 
